@@ -1,5 +1,22 @@
 # Getting Started with Create React App
 
+
+## I have completed my assignment [Welcome to STOCKZO](https://stockzo-dbd28.web.app/) 
+
+Different Features and Functionality :<br><br>
+         * My webpage name is STOCKZO. <br>
+         * I have used react router. <br>
+         * Also I have used firebase. <br>
+
+Technologies: <br> <br>
+        * Visual Studio
+        * Tailwind css
+        * DaisyUi <br>
+        * React Router <br>
+        * React app <br>
+        * Firebase <br>
+        * Many more technology used
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
